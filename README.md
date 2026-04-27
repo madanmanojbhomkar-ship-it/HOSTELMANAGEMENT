@@ -13,3 +13,5 @@
 6.DeletePage   :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/DeleteStudentID.png?raw=true
 
 7.DeleteList   :  https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/DeleteList.png?raw=true
+
+8.ViewStudentList       :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/viewStudentslist.png?raw=true
