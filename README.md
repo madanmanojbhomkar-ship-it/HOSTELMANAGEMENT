@@ -14,4 +14,6 @@
 
 7.DeleteList   :  https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/DeleteList.png?raw=true
 
-8.ViewStudentList       :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/viewStudentslist.png?raw=true
+8.ViewStudentList       :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/viewStudentslist.png?raw=true\
+
+9.GenerateReport      :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/GenerateReport.png?raw=true
