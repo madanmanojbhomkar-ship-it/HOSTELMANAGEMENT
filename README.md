@@ -9,3 +9,5 @@
 4. UpdatePage  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdateStudent.png?raw=true
 
 5.UpdateList  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdateStudent.png?raw=true
+
+6.DeletePage   :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/DeleteStudentID.png?raw=true
