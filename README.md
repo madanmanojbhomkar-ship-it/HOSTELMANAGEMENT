@@ -7,3 +7,5 @@
 3. StudentList  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/AddStudentList.png?raw=true
 
 4. UpdatePage  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdateStudent.png?raw=true
+
+5.UpdateList  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdateStudent.png?raw=true
