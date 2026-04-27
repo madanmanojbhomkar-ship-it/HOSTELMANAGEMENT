@@ -1,6 +1,6 @@
 # HOSTELMANAGEMENT
 
-01. FrontPage   :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/FRONTPAGE.png?raw=true
+01. FrontPage   :  https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/FRONTPAGE.png?raw=true
 
 2. addPage   :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/AddStudent.png?raw=true
 
@@ -11,3 +11,5 @@
 5.UpdateList  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdateStudent.png?raw=true
 
 6.DeletePage   :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/DeleteStudentID.png?raw=true
+
+7.DeleteList   :  https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/DeleteList.png?raw=true
