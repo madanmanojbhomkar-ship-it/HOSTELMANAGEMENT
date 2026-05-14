@@ -28,7 +28,7 @@
 
 14.DateRangeReportPage   :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/DateRangeReport.png?raw=true
 
-15.DateRangeReportResult   :
+15.DateRangeReportResult   :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/DteRangeReportResult.png?raw=true
 
 16.RoomWiseReportPage  :
 
