@@ -6,7 +6,11 @@
 
 3. AddStudentList  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/AddStudentList.png?raw=true
 
-5. UpdateStudentPage  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdateStudent.png?raw=true
+4. UpdateStudentPage  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdateStudent.png?raw=true
+
+5. UpdateStudentpage02  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdatedStudent.png?raw=true
+
+6. UpdatingStudentPage    :
 
 5.UpdateList  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdateStudent.png?raw=true
 
