@@ -22,7 +22,7 @@
 
 11.ViewStudentList       :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/viewStudentslist.png?raw=true
 
-12.AdvancedReportPage    :
+12.AdvancedReportPage    :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/AdvancedReport.png?raw=true
 
 13.PendingFeesPage     :
 
