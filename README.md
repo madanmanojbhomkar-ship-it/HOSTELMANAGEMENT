@@ -2,11 +2,11 @@
 
 01. FrontPage   :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/FRONTPAGE.png?raw=true
 
-2. addPage   :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/AddStudent.png?raw=true
+2. addStudentPage   :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/AddStudent.png?raw=true
 
 3. StudentList  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/AddStudentList.png?raw=true
 
-4. UpdatePage  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdateStudent.png?raw=true
+5. UpdatePage  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdateStudent.png?raw=true
 
 5.UpdateList  :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/UpdateStudent.png?raw=true
 
