@@ -26,7 +26,7 @@
 
 13.PendingFeesPage     :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/PendingFees.png?raw=true
 
-14.DateRangeReportPage   :
+14.DateRangeReportPage   :https://github.com/madanmanojbhomkar-ship-it/HOSTELMANAGEMENT/blob/main/DateRangeReport.png?raw=true
 
 15.DateRangeReportResult   :
 
